@@ -44,7 +44,7 @@ footer
 
 ### 3.1. Visual Studio 中内置的 Git 工具 
 
-#### 3.1.1 Visual Studio 配置 Git 的参考地址
+#### 3.1.1. Visual Studio 配置 Git 的参考地址
 [如何在 Visual Studio 2013 上使用 Github](http://www.oschina.net/translate/setting-up-github-to-work-with-visual-studio-2013-step-by-step)
 
 [如何在 Visual Studio 中配置 git](http://jingyan.baidu.com/article/3a2f7c2e05273926afd6118d.html)
