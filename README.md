@@ -8,6 +8,8 @@ Git 的学习和配置教程
 
 ## 2. Git commit 规范
 
+参考于 [Angular 规范](https://github.com/angular/angular.js/blob/master/DEVELOPERS.md#-git-commit-guidelines)
+
 ```
 type: subject
 
@@ -15,6 +17,7 @@ body
 
 footer
 ```
+
 ### 对格式的说明如下
 #### type
 代表某次提交的类型，比如是修复一个 bug 还是增加一个新的 feature。所有的 type 类型如下：
